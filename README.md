@@ -18,17 +18,6 @@ The purpose of this project is to analyze customers' satisfaction while interact
 - **day5.csv**: Includes data for day2
 - **day6.csv**: Includes data for day2
 
-## Environment Requirement
-The code has been tested under Python 3.9.6. The required packages are as follows:
-
-* scipy == 
-* numpy == 
-* pandas == 
-* nltk == 
-* spacy == 
-* sklearn == 
-* seaborn ==
-* matplotlib ==
 
 ## Acknowledgement
 
