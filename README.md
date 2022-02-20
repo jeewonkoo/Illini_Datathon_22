@@ -14,9 +14,9 @@ The purpose of this project is to analyze customers' satisfaction while interact
 ## File Structures
 - **Datathon.ipynb**: Includes all data preprocessing methods & models required for customer satisfaction analysis
 - **Day2.csv**: Includes data for day2
-- **day4.csv**: Includes data for day2
-- **day5.csv**: Includes data for day2
-- **day6.csv**: Includes data for day2
+- **day4.csv**: Includes data for day4
+- **day5.csv**: Includes data for day5
+- **day6.csv**: Includes data for day6
 
 
 ## Acknowledgement
@@ -29,6 +29,14 @@ The purpose of this project is to analyze customers' satisfaction while interact
 {link:"https://www.youtube.com/watch?v=dQw4w9WgXcQ"}
 
 ## Model Output
-![Alt text](/accuracy.PNG.PNG?raw=true "Model Final Test Accuracy")
-![Alt text](/word_cloud_deflected.PNG.PNG?raw=true "Wourd Cloud of INPUT column if CHAT_TYPE = Deflected")
-![Alt text](/word_cloud_livechat.PNG.PNG?raw=true "Wourd Cloud of INPUT column if CHAT_TYPE = LiveChat")
+![Alt text](accuracy.PNG?raw=true "Model Final Test Accuracy")
+
+- The final accuracy with INPUT and RESPONSE as input using Logistic Regression Classifier
+
+![Alt text](word_cloud_deflected.PNG?raw=true "Wourd Cloud of INPUT column if CHAT_TYPE = Deflected")
+
+- The Word cloud of text in INPUT column of data with CHAT_TYPE == Deflected
+
+![Alt text](word_cloud_livechat.PNG?raw=true "Wourd Cloud of INPUT column if CHAT_TYPE = LiveChat")
+
+- The Word cloud of text in INPUT column of data with CHAT_TYPE == LiveChat
