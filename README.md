@@ -26,7 +26,7 @@ The purpose of this project is to analyze customers' satisfaction while interact
 
 ## Youtube Video Link
 
-{link:"https://www.youtube.com/watch?v=dQw4w9WgXcQ"}
+{link:"https://www.youtube.com/watch?v=Lhalgtnks3M"}
 
 ## Model Output
 ![Alt text](accuracy.PNG?raw=true "Model Final Test Accuracy")
