@@ -29,3 +29,6 @@ The purpose of this project is to analyze customers' satisfaction while interact
 {link:"https://www.youtube.com/watch?v=dQw4w9WgXcQ"}
 
 ## Model Output
+![alt text](https://github.com/[illinidata]/[Datathon22-T023]/blob/[main]/accuracy.PNG?raw=true)
+![alt text](https://github.com/[illinidata]/[Datathon22-T023]/blob/[main]/word_cloud_deflected.PNG?raw=true)
+![alt text](https://github.com/[illinidata]/[Datathon22-T023]/blob/[main]/word_cloud_livechat.PNG?raw=true)
