@@ -12,11 +12,11 @@ Customer Satisfaction Analysis of AI Chatbot Sydney
 The purpose of this project is to analyze customers' satisfaction while interacting with the AI chatbot Sydney of Synchrony. When customers chat with Synchrony, they first engage with Sydney. Based on the chat transcript and other provided information, out model detremine if customers were dissatisfied with their relationship.
 
 ## File Structures
-- **Datathon.ipynb**: 
-- **Day2.csv**: 
-- **day4.csv**:  
-- **day5.csv**: 
-- **day6.csv**: 
+- **Datathon.ipynb**: Includes all data preprocessing methods & models required for customer satisfaction analysis
+- **Day2.csv**: Includes data for day2
+- **day4.csv**: Includes data for day2
+- **day5.csv**: Includes data for day2
+- **day6.csv**: Includes data for day2
 
 ## Environment Requirement
 The code has been tested under Python 3.9.6. The required packages are as follows:
