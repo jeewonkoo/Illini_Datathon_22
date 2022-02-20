@@ -29,6 +29,6 @@ The purpose of this project is to analyze customers' satisfaction while interact
 {link:"https://www.youtube.com/watch?v=dQw4w9WgXcQ"}
 
 ## Model Output
-![alt text](https://github.com/[illinidata]/[Datathon22-T023]/blob/[main]/accuracy.PNG?raw=true)
-![alt text](https://github.com/[illinidata]/[Datathon22-T023]/blob/[main]/word_cloud_deflected.PNG?raw=true)
-![alt text](https://github.com/[illinidata]/[Datathon22-T023]/blob/[main]/word_cloud_livechat.PNG?raw=true)
+![Alt text](/images/accuracy.PNG.PNG?raw=true "Model Final Test Accuracy")
+![Alt text](/images/word_cloud_deflected.PNG.PNG?raw=true "Wourd Cloud of INPUT column if CHAT_TYPE = Deflected")
+![Alt text](/images/word_cloud_livechat.PNG.PNG?raw=true "Wourd Cloud of INPUT column if CHAT_TYPE = LiveChat")
